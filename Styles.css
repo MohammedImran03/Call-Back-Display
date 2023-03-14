@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(137, 233, 233);
+    display: flex;
+  justify-content: center;
+}
+p{
+    display: flex;
+  justify-content: center;
+    font-size: 100px;
+    font-weight: 100;
+}
+.Message{
+    font: size 50px;;
+}
+button{
+    position: fixed;
+    left: 50px;
+    top:50px;
+    width: 50px;
+    height: 50px;
+}
+.Message{
+    display: flex;
+  justify-content: center;
+    font-size: 50px;
+    font-weight: 25;
+}
